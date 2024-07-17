@@ -32,11 +32,7 @@ Fast React Pizza Co. is a React-based application where you can order pizzas. Th
    ```sh
    npm install
    
-3. **Run the backend server in a new terminal**:
-   ```sh
-   npm run server
-   
-4. **Run the development server**:
+3. **Run the development server**:
    ```sh
    npm run dev
    
